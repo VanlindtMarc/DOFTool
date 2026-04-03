@@ -7,6 +7,14 @@ Vous devez également installer les dépendances via la commande suivante :
 pip install numpy pillow scipy opencv-python
 ```
 ## Utilisation
+
+Double-cliquez sur le fichier DOFtool.py
+
+Si rien ne se passe, utilisez la ligne de commande 
+```
+python DOFTool.py
+```
+
 Vous devez disposer de deux images : 
 1. L'image sans flou
 2. La carte de profondeur en noir et blanc

@@ -20,6 +20,7 @@ Vous devez disposer de deux images :
 2. La carte de profondeur en noir et blanc
 
 DOFTool vous proposera :
+* Prévisualisation
 * Inverser le z-depth...
 * Indiquer les limites proches et lointaines
 * Indiquer ces limites visuellement
@@ -30,4 +31,5 @@ DOFTool vous proposera :
 * Anti-bleeding
 * Barre d'avancement des calculs
 * Export en JPG et PNG
+* Plusieurs langues : français, anglais, néerlandais, allemand, espagnol, portugais, japonais, chinois, arabe, russe, hindi, bengali, klingon et wallon liégeois.
 

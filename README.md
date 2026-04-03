@@ -8,7 +8,7 @@ pip install numpy pillow scipy opencv-python
 ```
 ## Utilisation
 
-![Interface utilisateur]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/VanlindtMarc/DOFTool/blob/main/DOFTool.png))
+![Interface utilisateur](https://github.com/VanlindtMarc/DOFTool/blob/main/DOFTool.png)
 
 Double-cliquez sur le fichier DOFtool.py
 

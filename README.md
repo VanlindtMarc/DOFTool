@@ -1,13 +1,21 @@
 # DOFTool
 Logiciel permettant de générer un flou de profondeur à partir d'une image et de sa carte de profondeur.
 
-Ce logiciel a été écrit par Claude.AI en Python, vous devez donc avoir installé Python avant utilisation.
+Ce logiciel a été écrit par **Claude.AI** en Python.
+
+Les différentes dépendances imposent **Python 3.11**.
+
 Vous devez également installer les dépendances via la commande suivante : 
 ```
-pip install numpy pillow scipy opencv-python
+python -m pip install numpy pillow scipy opencv-python
 ```
-## Utilisation
 
+Pour effectuer le rendu par carte graphique vous devez installer **PyTorch** :
+```
+pip install torch --index-url https://download.pytorch.org/whl/cu121
+```
+
+## Utilisation
 ![Interface utilisateur](https://github.com/VanlindtMarc/DOFTool/blob/main/DOFTool.png)
 
 Double-cliquez sur le fichier DOFtool.py

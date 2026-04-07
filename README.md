@@ -43,3 +43,6 @@ DOFTool vous proposera :
 * Export en JPG et PNG
 * Plusieurs langues : français, anglais, néerlandais, allemand, espagnol, portugais, japonais, chinois, arabe, russe, hindi, bengali, klingon et wallon liégeois.
 
+### Exemple d'utilisation : photo de famille
+Je vais partir de la photo suivante.
+

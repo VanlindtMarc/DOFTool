@@ -1,6 +1,26 @@
-# 🎞️ DOF Tool HQ — v13
+# 🎞️ DOF Tool HQ
 
 **DOF Tool HQ** est un outil de simulation de profondeur de champ (*Depth of Field*) haute qualité avec interface graphique, conçu pour les artistes, photographes et créateurs 3D. Il prend en entrée une image RGB et une depth map 16 bits, et génère un rendu bokeh réaliste et sans halos.
+
+La raison d'être de ce programme est le besoin de réaliser plus rapidement ce calcul que celui offert par **Mandelbulb 3D**, qui offre les deux images nécessaires, en des qualités parfaites : 
+
+1. **Image en RVB** : PNG 8bits
+2. **Z-DepthMap** : PGM 16bits / PNG Grayscale 16bits
+
+Il est également possible de générer la depthmap d'une photo en se basant sur les modèles suivants : 
+
+- Depth Anything v2 (Small, Normal et Large)
+- Depth Anything v2 Metrics (Indoor et Outdoor)
+- Depth Anything v3 (Small, Normal et Large)
+- Marigold.
+
+Attention, ces opérations demandent une carte graphique raisonnable mais sont parfaitement réalisibles sur une carte graphique "ancienne".
+
+La configuration utilisée ici est un simple Laptop LDLC i5-9400 2,9Ghz avec nVidia GTX 1650.
+
+---
+
+###
 
 ---
 
